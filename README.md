@@ -26,7 +26,9 @@ DAX
 Jupyter Notebook
 
 ## 📂 Dataset
-Dataset: Online Retail II Dataset
+Dataset: online_retail_II
+
+Due to GitHub file size limitations, the original dataset is not included in this repository. The dataset can be downloaded from https: www.kaggle.com
 
 The dataset contains more than 800,000 e-commerce transactions, including:
 Customer ID
