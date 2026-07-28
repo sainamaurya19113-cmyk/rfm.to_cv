@@ -31,13 +31,7 @@ Dataset: online_retail_II
 Due to GitHub file size limitations, the original dataset is not included in this repository. The dataset can be downloaded from https: www.kaggle.com
 
 The dataset contains more than 800,000 e-commerce transactions, including:
-Customer ID
-Invoice Number
-Product Description
-Quantity
-Unit Price
-Invoice Date
-Country
+Customer ID, Invoice, StockCode, Description, Quantity, Invoice Date, Price, Country
 
 ## 🔄 Project Workflow
 
