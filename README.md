@@ -39,68 +39,90 @@ Country
 
 🔄 Project Workflow
 
-Raw E-commerce Data
-        │
-        ▼
-Data Cleaning (SQL & Python)
-        │
-        ▼
-RFM Score Calculation
-        │
-        ▼
-Customer Segmentation
-        │
-        ▼
-Power BI Dashboard
-        │
-        ▼
-Business Insights & Recommendations
+Raw E-commerce Data --> Data Cleaning (SQL & Python) --> RFM Score Calculation --> Customer Segmentation --> Power BI Dashboard --> Business Insights & Recommendations
+
+
 
 📊 Dashboard Pages
 
+
 1️⃣ Customer Analysis
+
 Customer distribution
+
 Revenue by segment
+
 RFM segmentation
+
 Customer behavior analysis
 
 2️⃣ Product Analysis
+
+
 Top-selling products
+
 Revenue by category
+
 Product demand trends
+
 Product performance analysis
 
 3️⃣ Customer–Product Analysis
+
+
 Product preferences by customer segment
+
 Cross-selling opportunities
+
 Segment-wise purchasing behavior
 
 4️⃣ Customer Details
+
+
 Drill-through page
+
 Individual customer information
+
 Transaction-level analysis
 
 
 📈 RFM Customer Segments
 
 The project segments customers into groups such as:
+
 Champions
+
 Loyal Customers
+
 Potential Loyalists
+
 At Risk
+
 Hibernating
+
 New Customers...
 
 Each segment can be targeted using different marketing strategies.
 
+
 💡 Key Business Insights
+
 Champion customers generated a significant share of total revenue.
+
 At-Risk customers can be re-engaged through personalized marketing campaigns.
+
 Different customer segments preferred different product categories.
+
 Customer segmentation enables more efficient marketing than treating all customers equally.
 
+
+
 📢 Business Recommendations
+
 Reward loyal customers through exclusive offers.
+
 Launch win-back campaigns for inactive customers.
+
 Promote products preferred by high-value customer segments.
+
 Improve inventory planning based on purchasing trends.
