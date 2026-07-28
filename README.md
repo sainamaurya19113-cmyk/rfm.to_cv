@@ -1,12 +1,12 @@
-📊 E-Commerce Customer Analytics & Behavioral Segmentation using RFM Modeling
+# 📊 E-Commerce Customer Analytics & Behavioral Segmentation using RFM Modeling
 
-Project Overview
+## Project Overview
 
 This project analyzes an e-commerce transaction dataset to understand customer purchasing behavior using RFM (Recency, Frequency, Monetary) Analysis. The goal is to segment customers into meaningful groups that help businesses improve customer retention, optimize marketing campaigns, and increase customer lifetime value.
 
 The project combines SQL, Python, and Power BI to build an end-to-end analytics solution, from raw transactional data to an interactive business dashboard.
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to:
 
@@ -16,7 +16,7 @@ Identify high-value and at-risk customers.
 Build an interactive Power BI dashboard.
 Generate business insights and recommendations for marketing teams.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Python
 Pandas
 NumPy
@@ -25,7 +25,7 @@ Power BI
 DAX
 Jupyter Notebook
 
-📂 Dataset
+## 📂 Dataset
 Dataset: Online Retail II Dataset
 
 The dataset contains more than 800,000 e-commerce transactions, including:
@@ -37,16 +37,16 @@ Unit Price
 Invoice Date
 Country
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 Raw E-commerce Data --> Data Cleaning (SQL & Python) --> RFM Score Calculation --> Customer Segmentation --> Power BI Dashboard --> Business Insights & Recommendations
 
 
 
-📊 Dashboard Pages
+# 📊 Dashboard Pages
 
 
-1️⃣ Customer Analysis
+## 1️⃣ Customer Analysis
 
 Customer distribution
 
@@ -56,8 +56,8 @@ RFM segmentation
 
 Customer behavior analysis
 
-2️⃣ Product Analysis
 
+## 2️⃣ Product Analysis
 
 Top-selling products
 
@@ -67,8 +67,8 @@ Product demand trends
 
 Product performance analysis
 
-3️⃣ Customer–Product Analysis
 
+## 3️⃣ Customer–Product Analysis
 
 Product preferences by customer segment
 
@@ -76,8 +76,8 @@ Cross-selling opportunities
 
 Segment-wise purchasing behavior
 
-4️⃣ Customer Details
 
+## 4️⃣ Customer Details
 
 Drill-through page
 
@@ -86,7 +86,7 @@ Individual customer information
 Transaction-level analysis
 
 
-📈 RFM Customer Segments
+## 📈 RFM Customer Segments
 
 The project segments customers into groups such as:
 
@@ -105,7 +105,7 @@ New Customers...
 Each segment can be targeted using different marketing strategies.
 
 
-💡 Key Business Insights
+## 💡 Key Business Insights
 
 Champion customers generated a significant share of total revenue.
 
@@ -117,7 +117,7 @@ Customer segmentation enables more efficient marketing than treating all custome
 
 
 
-📢 Business Recommendations
+## 📢 Business Recommendations
 
 Reward loyal customers through exclusive offers.
 
